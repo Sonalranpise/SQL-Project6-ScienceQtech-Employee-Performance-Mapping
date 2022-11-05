@@ -32,7 +32,7 @@ To facilitate a better understanding, managers have provided ratings for each em
 - DEV_QTR – Quarter in which the project was scheduled
 - STATUS – Status of the project currently
 
--**Data_science_team: It contains information about all the employees in the Data Science team.**
+**Data_science_team: It contains information about all the employees in the Data Science team.**
 - EMP_ID – ID of the employee
 - FIRST_NAME – First name of the employee
 - LAST_NAME – Last name of the employee
